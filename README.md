@@ -2,6 +2,8 @@
 
 This project demonstrates the use of a **LilyGo T-Display** board equipped with an **SX1278 LoRa module** and an **SSD1306 OLED screen** to send and receive data using **LoRa** communication.
 
+![Lilygo](lilygo_board.jpg)
+
 ## Features
 - **Sending LoRa packets**: The board sends a message "heja" followed by a counter value every second.
 - **Receiving LoRa packets**: The board listens for incoming LoRa messages and displays them on the OLED screen.
