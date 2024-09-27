@@ -39,4 +39,4 @@ This project demonstrates the use of a **LilyGo T-Display** board equipped with 
 3. View sent and received messages via the **Serial Monitor** and the OLED screen.
 
 ## License
-This project is open-source and available under the [Free BSD](LICENSE).
+This project is open-source and available under the [GPL-3.0 license](LICENSE).
